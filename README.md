@@ -68,7 +68,7 @@ I decided rather than attempt to optimize the model by hand. I went with KerasTu
 I wasn't able to achieve the target model performance of >75%.  However, I feel pretty good about the model I have been able to create. It has a loss of around 0.5 and an accuracy of 72%.  
 
 Summary:
-I have trained a neural network model that can predict whether an applicant will be successful if funded by Alphabet Soup with an accuracy of 72%. This model is not perfect, but it can be a useful tool for Alphabet Soup to help select the applicants with the best chance of success.
+I have trained a neural network model that can predict whether an applicant will be successful if funded by Alphabet Soup with an accuracy of 72% (test loss is 0.798652172088623, and the test accuracy is 0.7216326594352722. This means that the model is making an average error of 0.798652172088623 on the test set, and it is able to predict correctly 72.16% of the data points in the test set.). This model is not perfect, but it can be a useful tool for Alphabet Soup to help select the applicants 72.16% of the time.  But when the applicants are asking for hundreds of millions of dollars.  I wouldn't trust this model.
 
 Recommendation for a different model
 
