@@ -1,4 +1,4 @@
-echo NeuralHarmony
+### NeuralHarmony
 
 ## Overview
 The Alphabet Soup Neural Network project utilizes a deep learning model to predict the success of funding applications for a non-profit organization, Alphabet Soup. The model is designed to analyze various features such as application type, affiliation, classification, and income amount to determine whether an application is likely to be successful. The goal is to create a predictive model that helps Alphabet Soup identify potential successful applicants and streamline their approval process.
